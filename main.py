@@ -1,3 +1,13 @@
+''' 
+LABORATORY EXERCISE 9 
+SORTING DATA STRUCTURE
+
+Choose two of the elementary sorting algorithms that were discussed, and then create a
+program that will simulate the processes of the algorithms using Python 
+
+LabExer6A_STUDENTNO.py
+'''
+
 def selection_sort(nums):
     for i in range(6):
         minpos = i
